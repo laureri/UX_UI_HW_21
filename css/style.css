@@ -1,0 +1,55 @@
+.header {
+  text-align: center;
+  padding: 3%;
+}
+
+.introduction {
+  background-image: url("../images/car.png");
+  background-size: cover;
+  height: 100vh !important;
+  text-align: center;
+}
+
+.introduction-text {
+  color: white;
+  padding-top: 40vh;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.card {
+  border-color: black;
+}
+
+.card-img-top {
+  height: 20vh;
+}
+
+.card-title {
+  height: 5vh;
+}
+
+.divider {
+  width: 10vw;
+  padding: 2%;
+}
+
+.quote {
+  background-image: linear-gradient(
+    135deg,
+    #f6f4cc,
+    #e3eece,
+    #d0e9d1,
+    #b8e2d4,
+    #99d4cd,
+    #60babe
+  );
+  height: 40vh;
+  padding: 30px;
+}
+
+.padding {
+  padding: 20px;
+}

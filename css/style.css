@@ -53,3 +53,55 @@
 .padding {
   padding: 20px;
 }
+
+.getstartedcover {
+  background-image: url("../images/getstartedcover.jpeg");
+  background-size: cover;
+  height: 75vh !important;
+  text-align: center;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.greybackground {
+  background-color: whitesmoke;
+}
+
+.getstartedfooter {
+  background-image: url("../images/getstartedfooter.jpeg");
+  background-size: cover;
+  height: 100vh !important;
+  text-align: center;
+}
+
+.tipscover {
+  background-image: url("../images/tipscover.jpeg");
+  background-size: cover;
+  height: 75vh !important;
+  text-align: center;
+}
+
+.tippicture {
+  height: 35vh;
+}
+
+.tipsfooter {
+  background-color: black;
+  color: white;
+}
+
+.relatedhobbiescover {
+  background-image: url("../images/relatedhobbiescover.jpeg");
+  background-size: cover;
+  height: 50vh !important;
+  text-align: center;
+}
+
+.relatedhobbiesfooter {
+  background-image: url("../images/relatedhobbiesfooter.jpeg");
+  background-size: cover;
+  height: 75vh !important;
+  text-align: center;
+}
